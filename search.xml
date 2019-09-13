@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[913的记录]]></title>
+    <url>%2F2019%2F09%2F13%2F913%E7%9A%84%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[913记事 onepeach 有了自己的网站，好开心 真的差一点就放弃了，还好成功了 中秋节来一张照片吧 :kiss: &lt;div align=&quot;center&quot;&gt; &lt;img src=https://hbimg.huabanimg.com/80b6880c9a62c81ffe1dc842c80b48a131196320f7bf-Qy2Jhs_fw658 width = &quot;50%&quot; height = &quot;50%&quot; alt=&quot;图片名称&quot; align=center /&gt; &lt;/div&gt; good luck，onepeach]]></content>
+      <categories>
+        <category>daily memory</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[913blog]]></title>
     <url>%2F2019%2F09%2F13%2F913blog%2F</url>
-    <content type="text"><![CDATA[正文913blog913]]></content>
+    <content type="text"><![CDATA[正文913blog 913]]></content>
       <categories>
         <category>类别1</category>
       </categories>
@@ -15,11 +26,11 @@
   <entry>
     <title><![CDATA[first blog]]></title>
     <url>%2F2019%2F09%2F13%2Ffirst%20blog%2F</url>
-    <content type="text"><![CDATA[一级标题二级标题三级标题这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字倾斜文字花瓣 20号绿色微软雅黑]]></content>
+    <content type="text"><![CDATA[一级标题 二级标题 三级标题 这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字 倾斜文字 花瓣 &lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;微软雅黑&quot; color=&quot;green&quot; size=&quot;20&quot;&gt;20号绿色微软雅黑&lt;/font&gt;&lt;/p&gt;]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello Onepeachall]]></title>
     <url>%2F2019%2F09%2F13%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post 1$ hexo new "My New Post" More info: Writing Run server 1$ hexo server More info: Server Generate static files 1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
