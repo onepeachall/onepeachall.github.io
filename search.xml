@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[读书笔记-学习之道]]></title>
+    <url>%2F2019%2F09%2F13%2F%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93%2F</url>
+    <content type="text"><![CDATA[🍑🍑🍑🍑🍑 读书之道 作者： 芭芭拉·奥克利 chap 12 自我欣赏 不必羡慕天才 是什么不重要，如何思考才重要 尼克·阿普尔亚德的故事]]></content>
+      <categories>
+        <category>书目</category>
+      </categories>
+      <tags>
+        <tag>读书笔记</tag>
+        <tag>方法论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[913的记录]]></title>
     <url>%2F2019%2F09%2F13%2F913%E7%9A%84%E8%AE%B0%E5%BD%95%2F</url>
     <content type="text"><![CDATA[¶913记事 onepeach 有了自己的网站，好开心 真的差一点就放弃了，还好成功了 ¶中秋节来一张照片吧 💋 good luck，onepeach]]></content>
@@ -26,11 +38,11 @@
   <entry>
     <title><![CDATA[first blog]]></title>
     <url>%2F2019%2F09%2F13%2Ffirst%20blog%2F</url>
-    <content type="text"><![CDATA[一级标题 二级标题 三级标题 这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字 倾斜文字 花瓣 &lt;p align=&quot;left&quot;&gt;&lt;font face=&quot;微软雅黑&quot; color=&quot;green&quot; size=&quot;20&quot;&gt;20号绿色微软雅黑&lt;/font&gt;&lt;/p&gt;]]></content>
+    <content type="text"><![CDATA[一级标题 ¶二级标题 ¶三级标题 这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字 倾斜文字 花瓣 20号绿色微软雅黑]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello Onepeachall]]></title>
     <url>%2F2019%2F09%2F13%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post 1$ hexo new "My New Post" More info: Writing Run server 1$ hexo server More info: Server Generate static files 1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. ¶Quick Start ¶Create a new post 1$ hexo new "My New Post" More info: Writing ¶Run server 1$ hexo server More info: Server ¶Generate static files 1$ hexo generate More info: Generating ¶Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
