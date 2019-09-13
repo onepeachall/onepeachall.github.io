@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[913blog]]></title>
+    <url>%2F2019%2F09%2F13%2F913blog%2F</url>
+    <content type="text"><![CDATA[正文913blog913]]></content>
+      <categories>
+        <category>类别1</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[first blog]]></title>
+    <url>%2F2019%2F09%2F13%2Ffirst%20blog%2F</url>
+    <content type="text"><![CDATA[一级标题二级标题三级标题这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字倾斜文字花瓣 20号绿色微软雅黑]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello Onepeachall]]></title>
+    <url>%2F2019%2F09%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
