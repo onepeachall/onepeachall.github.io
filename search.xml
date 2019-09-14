@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[914的记录]]></title>
+    <url>%2F2019%2F09%2F14%2F914%E7%9A%84%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[html常用]]></title>
     <url>%2F2019%2F09%2F14%2Fhtml%E5%B8%B8%E7%94%A8%2F</url>
     <content type="text"><![CDATA[¶一.图片 插入图片 img border 图片边框 src 原属性 url 图片地址 alt 定义图片名称 width 图片宽度 height 图片高度 border 图片边框 align=“bottom” 底部对齐（默认） align=“middle” 居中对齐 align=“top” 顶部对齐 float:left 向左浮动 float:right 向右浮动 1&lt;img src="url" alt="命名" width="32" height="32"&gt; 创建图片链接 12&lt;a href="图片转向的链接"&gt;&lt;img border="10" src="图片链接" alt="图片名称" width="32" height="32"&gt;&lt;/a&gt; 浮动图片 123&lt;p&gt;&lt;img src="smiley.gif" alt="Smiley face" style="float:left" width="32" height="32"&gt;图片的段落，图片浮动图片的段落，图片浮动图片的段落，图图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动片浮动图片的段落，图片浮动 一个带图片的段落，图片浮动在这个文本的左边。&lt;/p&gt;]]></content>
