@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Excel技巧]]></title>
+    <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"><![CDATA[.articlename { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } Excel 技巧 ¶Excel技巧总结190915 ¶多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>Excel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[读书笔记-自控力]]></title>
     <url>%2F2019%2F09%2F15%2F%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E8%87%AA%E6%8E%A7%E5%8A%9B%2F</url>
     <content type="text"><![CDATA[.cities { background-color:#8E8CD8; color:white; margin:0 0; padding:20px; text-align:center; } 自控力 .container{ display:block; width:1080px; margin:0 auto; padding:15px; color:#767676; } .fl{ float:left; } .clear-float:after, .clear-float:before{ content:""; display:block; clear:both; } &nbsp&nbsp作者: [美] 凯利·麦格尼格尔 / [美] 凯利·麦格尼格尔 &nbsp&nbsp出版社: 文化发展出版社(原印刷工业出版社) &nbsp&nbsp副标题: 斯坦福大学最受欢迎心理学课程 &nbsp&nbsp原作名: T It &nbsp&nbsp译者: 王岑卉 &nbsp&nbsp出版年: 2012-8 &nbsp&nbsp页数: 263 &nbsp&nbsp定价: 39.80元 &nbsp&nbsp装帧: 平装 &nbsp&nbspISBN: 9787514205039 ¶Ch1 ¶ “我要做”、“我不要”和“我想要” ¶自控力的神经学基础 前额皮质主要让人做“更困难的事情”。 前额皮质的左边：“我要做”；处理枯燥、充满压力的任务 eg. 我要学习； 我要减肥 前额皮质的右边：“我不要”：克制冲动 eg. 深夜了我不能吃冰淇淋了，会长胖 前额皮质的左和右共同控制：“做什么”：记录目标和欲望 eg. 我知道我要通过学习过上自己自由的生活，所以我应该学习。 🙋‍♀️想象正在面临一个意志力挑战。你认为比当下挑战更难的使什么？为什么它如此困难？想到他的时候感觉如何？ ¶任意妄为、及时行乐VS克服冲动、深谋远虑 意志力第一法则：认识自己 在做决定的时候，必须意识到自己此刻应该有自控力。通常，注意力分散的时候更容易向诱惑屈服。 🔬意志力试验： 至少选择一天，把所有的决定记下来。然后回想哪些决定有利于实现目标，哪些会消磨意志。]]></content>
@@ -14,18 +25,17 @@
   <entry>
     <title><![CDATA[914的记录]]></title>
     <url>%2F2019%2F09%2F14%2F914%E7%9A%84%E8%AE%B0%E5%BD%95%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[test]]></content>
   </entry>
   <entry>
     <title><![CDATA[html常用]]></title>
     <url>%2F2019%2F09%2F14%2Fhtml%E5%B8%B8%E7%94%A8%2F</url>
     <content type="text"><![CDATA[¶一.图片 插入图片 img border 图片边框 src 原属性 url 图片地址 alt 定义图片名称 width 图片宽度 height 图片高度 border 图片边框 align=“bottom” 底部对齐（默认） align=“middle” 居中对齐 align=“top” 顶部对齐 float:left 向左浮动 float:right 向右浮动 1&lt;img src="url" alt="命名" width="32" height="32"&gt; 创建图片链接 12&lt;a href="图片转向的链接"&gt;&lt;img border="10" src="图片链接" alt="图片名称" width="32" height="32"&gt;&lt;/a&gt; 浮动图片 123&lt;p&gt;&lt;img src="smiley.gif" alt="Smiley face" style="float:left" width="32" height="32"&gt;图片的段落，图片浮动图片的段落，图片浮动图片的段落，图图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动图片的段落，图片浮动片浮动图片的段落，图片浮动 一个带图片的段落，图片浮动在这个文本的左边。&lt;/p&gt;]]></content>
       <categories>
-        <category>类别1</category>
+        <category>计算机</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
-        <tag>标签2</tag>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
@@ -62,15 +72,5 @@
         <tag>标签1</tag>
         <tag>标签2</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[first blog]]></title>
-    <url>%2F2019%2F09%2F13%2Ffirst%20blog%2F</url>
-    <content type="text"><![CDATA[一级标题 ¶二级标题 ¶三级标题 这里是正文 这里是引用 无序列表1 无序列表2 无序列表3 有序标题1 有序标题2 有序标题3 加粗文字 倾斜文字 花瓣 20号绿色微软雅黑]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello Onepeachall]]></title>
-    <url>%2F2019%2F09%2F13%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to onepeach! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. ¶Quick Start ¶Create a new post 1$ hexo new "My New Post" More info: Writing ¶Run server 1$ hexo server More info: Server ¶Generate static files 1$ hexo generate More info: Generating ¶Deploy to remote sites 1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
