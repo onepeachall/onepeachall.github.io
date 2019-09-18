@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test18]]></title>
+    <url>%2F2019%2F09%2F18%2Ftext18%2F</url>
+    <content type="text"><![CDATA[abstract .posttitle{ margin:0 0; padding:0 0; text-align:center; text-decoration:none; border-style:dashed; border-color:#EBCED0; border-top-style:dotted; border-right-style:none; border-bottom-style:dotted; border-left-style:none; border-width:2px; } YOUR TITLE text]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Excel技巧]]></title>
     <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
     <content type="text"><![CDATA[.articlename { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } Excel 技巧 ¶Excel技巧总结190915 ¶多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
@@ -9,6 +14,29 @@
       </categories>
       <tags>
         <tag>Excel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[onepeach常用快捷键]]></title>
+    <url>%2F2019%2F09%2F15%2F%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%2F</url>
+    <content type="text"><![CDATA[.posttitle{ background-color:#EBCED0; margin:0 0; padding:0px; text-align:center; text-decoration:none; } onepeach常用快捷键 ¶ ¶win10快捷键 Ctrl+C 新建虚拟桌面：win+Ctrl+D 关闭当前虚拟桌面：Win+Ctrl+F4？ 切换虚拟桌面：win+ctrl+←/→ 显示运行所有桌面：win+Tab 切换桌面：alt+Tab 打开资源管理器：win+E 打开便签：win+W 新建文件夹：ctrl+shift+N 缩小/最小化当前窗口：win+↓ 最大化当前窗口：win+↑ 最大化到左侧屏幕：win+← 最大化到右侧屏幕：win+→ ¶浏览器快捷键 收藏当前网页：ctrl+D 地址栏搜索：ctrl+E 页面中查找（使用很多软件）：ctrl+F 打开历史面板：ctrl+H 打开下载列表：ctrl+J 选择地址栏内容：ctrl+L或Alt+D 新建窗口（使用很多）：ctrl+N 新建标签页：ctrl+T 关闭当前标签页：ctrl+W 切换到指定序号的标签：ctrl+1，2，3…8 切换到最后一个标签：ctrl+9 切换到上一个标签(适用于pdf阅读器)：ctrl+shift+Tab 切换到下一个标签(适用于pdf阅读器)：ctrl+Tab 页面缩放比例增加25%：ctrl++ 页面缩放比例减小25%：ctrl+- 页面缩放恢复100%：ctrl+0 ?回到上一页面：Alt+←或Backspace ?前进到下一页面：+ ¶有道词典快捷键 截图翻译当前页面：ctrl+alt+F ¶极速PDF阅读器快捷键 下划线：ctrl+shift+U 高亮：ctrl+shift+H 写字：ctrl+shift+W 画线：ctrl+shift+M 删除线：ctrl+shift+D 矩形：ctrl+shift+R 椭圆：ctrl+shift+O 箭头：ctrl+shift+Y ¶onenote快捷键 打开OneNote：win+shift+N 新建快速笔记：win+N 停靠到桌面：ctrl+alt+D 新建窗口：ctrl+M]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>word</tag>
+        <tag>计算机技巧</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[word常用技巧]]></title>
+    <url>%2F2019%2F09%2F15%2Fword%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"><![CDATA[.articlename { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } word 技巧 ¶Excel技巧总结190915 ¶多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>word</tag>
       </tags>
   </entry>
   <entry>
@@ -21,18 +49,6 @@
       <tags>
         <tag>方法论</tag>
         <tag>心理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[onepeach常用快捷键]]></title>
-    <url>%2F2019%2F09%2F15%2F%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%2F</url>
-    <content type="text"><![CDATA[.cities { background-color:#b6e6bd; margin:0 0; padding:20px; text-align:center; } onepeach常用快捷键 ¶ ¶win10快捷键 Ctrl+C 新建虚拟桌面：win+Ctrl+D 关闭当前虚拟桌面：Win+Ctrl+F4？ 切换虚拟桌面：win+ctrl+←/→ 显示运行所有桌面：win+Tab 切换桌面：alt+Tab 打开资源管理器：win+E 打开便签：win+W 新建文件夹：ctrl+shift+N 缩小/最小化当前窗口：win+↓ 最大化当前窗口：win+↑ 最大化到左侧屏幕：win+← 最大化到右侧屏幕：win+→ ¶浏览器快捷键 收藏当前网页：ctrl+D 地址栏搜索：ctrl+E 页面中查找（使用很多软件）：ctrl+F 打开历史面板：ctrl+H 打开下载列表：ctrl+J 选择地址栏内容：ctrl+L或Alt+D 新建窗口（使用很多）：ctrl+N 新建标签页：ctrl+T 关闭当前标签页：ctrl+W 切换到指定序号的标签：ctrl+1，2，3…8 切换到最后一个标签：ctrl+9 切换到上一个标签(适用于pdf阅读器)：ctrl+shift+Tab 切换到下一个标签(适用于pdf阅读器)：ctrl+Tab 页面缩放比例增加25%：ctrl++ 页面缩放比例减小25%：ctrl+- 页面缩放恢复100%：ctrl+0 ?回到上一页面：Alt+←或Backspace ?前进到下一页面：+ ¶有道词典快捷键 截图翻译当前页面：ctrl+alt+F ¶极速PDF阅读器快捷键 下划线：ctrl+shift+U 高亮：ctrl+shift+H 写字：ctrl+shift+W 画线：ctrl+shift+M 删除线：ctrl+shift+D 矩形：ctrl+shift+R 椭圆：ctrl+shift+O 箭头：ctrl+shift+Y ¶onenote快捷键 打开OneNote：win+shift+N 新建快速笔记：win+N 停靠到桌面：ctrl+alt+D 新建窗口：ctrl+M]]></content>
-      <categories>
-        <category>计算机</category>
-      </categories>
-      <tags>
-        <tag>word</tag>
-        <tag>计算机技巧</tag>
       </tags>
   </entry>
   <entry>
@@ -54,13 +70,13 @@
   <entry>
     <title><![CDATA[读书笔记-学习之道]]></title>
     <url>%2F2019%2F09%2F13%2F%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93%2F</url>
-    <content type="text"><![CDATA[🍑🍑🍑🍑🍑 .cities { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } 学习之道 .container{ display:block; width:1080px; margin:0 auto; padding:15px; color:#767676; font-size: 12px; } .fl{ float:left; } .clear-float:after, .clear-float:before{ content:""; display:block; clear:both; } &nbsp&nbsp书名:学习之道 &nbsp&nbsp作者: [美] 芭芭拉·奥克利（Barbara Oakley） &nbsp&nbsp出版社: 机械工业出版社 &nbsp&nbsp副标题: A Mind for Numbers: How to Excel &nbsp&nbspat Math and Science (Even If You Flunked Algebra) &nbsp&nbsp出版年: 2016-11 &nbsp&nbspISBN: 9787111552062 &nbsp&nbsp阅读时间: 190914- &nbsp&nbsp评分: 星星 &nbsp&nbsp Download here ¶chap 12 自我欣赏 ¶ 不必羡慕天才 ¶是什么不重要，如何思考才重要 ¶ 尼克·阿普尔亚德的故事]]></content>
+    <content type="text"><![CDATA[A Mind for Numbers- How to Excel at Math and Science (Even If You Flunked Algebra) 🍑🍑🍑🍑🍑 .cities { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:0 0; text-align:center; } 学习之道 ¶chap 12 自我欣赏 ¶ 不必羡慕天才 ¶是什么不重要，如何思考才重要 ¶ 尼克·阿普尔亚德的故事]]></content>
       <categories>
         <category>读书笔记</category>
       </categories>
       <tags>
-        <tag>读书笔记</tag>
         <tag>方法论</tag>
+        <tag>读书笔记</tag>
       </tags>
   </entry>
   <entry>
