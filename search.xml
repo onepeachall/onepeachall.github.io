@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Excel技巧]]></title>
+    <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"><![CDATA[.articlename { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } Excel 技巧 Excel技巧总结190915 多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>Excel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[word常用技巧]]></title>
     <url>%2F2019%2F09%2F15%2Fword%E6%8A%80%E5%B7%A7%2F</url>
     <content type="text"><![CDATA[Excel技巧总结190915 多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
@@ -45,17 +56,6 @@
       <tags>
         <tag>方法论</tag>
         <tag>心理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Excel技巧]]></title>
-    <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
-    <content type="text"><![CDATA[.articlename { background-color:#8E8CD8; //标题背景颜色 margin:0 0; padding:20px; text-align:center; } Excel 技巧 Excel技巧总结190915 多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
-      <categories>
-        <category>计算机</category>
-      </categories>
-      <tags>
-        <tag>Excel</tag>
       </tags>
   </entry>
   <entry>
