@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[everything 技巧总结]]></title>
-    <url>%2F2019%2F09%2F23%2F%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%81%93%20-%20%E5%89%AF%E6%9C%AC%2F</url>
-    <content type="text"><![CDATA[1. 新建一个everything窗口 1选项&gt;常规&gt;快捷键&gt;设置自己的新建快捷键 2. 检索技巧 a. 布尔运算 和：AND 或者两者间加space 或：| 排除： 开头加!]]></content>
-      <categories>
-        <category>读书笔记</category>
-      </categories>
-      <tags>
-        <tag>方法论</tag>
-        <tag>读书笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[everything 技巧总结]]></title>
-    <url>%2F2019%2F09%2F23%2Feverything%20%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93%2F</url>
-    <content type="text"><![CDATA[1. 新建一个everything窗口 1选项&gt;常规&gt;快捷键&gt;设置自己的新建快捷键 2. 检索技巧 a. 布尔运算 和：AND 或者两者间加space 或：| 排除： 开头加!]]></content>
-      <categories>
-        <category>读书笔记</category>
-      </categories>
-      <tags>
-        <tag>方法论</tag>
-        <tag>读书笔记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[个人使用电脑工作的技巧]]></title>
     <url>%2F2019%2F09%2F23%2F%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E7%94%B5%E8%84%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8A%80%E5%B7%A7%2F</url>
     <content type="text"><![CDATA[使用电脑工作技巧 工作前准备 用具 文具：便利贴、便签纸/书写纸、笔 电脑、电源线、鼠标、鼠标垫 计时器/时钟 滴眼液（新乐敦） 抽纸 心情 整洁的桌面 排泄一次 电脑配置 桌面 用的四色壁纸、分为暂存区、常用区、正在做和之后做。 暂存区的内容是临时下载的文件或者临时生成的文件。放在左上角是因为电脑新建文件或者下载文件都会默认在左上角。 常用区放置常用的快捷方式，或者常用免安装软件的快捷方式。不会放置很多，基本把所有的常用软件都放在应用磁铁上了。此外，还会放置一些常用文件夹的快捷方式。 正在做放置当前任务所需文件或文件夹的快捷方式。 之后做可以放置突然接收的文件和暂存区的区别是一个方式当前任务暂存区，一个放置当前用不到的暂存。 win10自带的sticky notes 它的好处在于不需要下载其他软件，可以进行看板管理。我的通常用法是包含，ToDo List,Inbox,Notes,和收集阅读文献的表达。 打开sticky notes 的快捷键是WIN+W ,然后选择便签就行了。 在每一个便签最上面写上它是标题并加粗，标题下一行插入一行▔▔▔▔，以此来分割笔记和标题。此外，不同颜色代表不同的笔记主题。 ToDo List 写的是今天的任务，它没有复选框，我就直接加入一个方框■，任务做完是时候把这一行加上删除线即可 Inbox收集的是学习过程中了解的概念，或想了解的东西，或想下载的东西，临时记录在此处。 Notes可以记录工作中提醒你的东西，比如提醒你的事情（座右铭等）、快捷键等。 everything快速查找所需文件]]></content>
@@ -32,8 +8,20 @@
         <category>经验</category>
       </categories>
       <tags>
-        <tag>经验</tag>
         <tag>技巧</tag>
+        <tag>经验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[everything 技巧总结]]></title>
+    <url>%2F2019%2F09%2F22%2Feverything%20%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93%2F</url>
+    <content type="text"><![CDATA[everything 技巧总结 1. 新建一个everything窗口 1选项&gt;常规&gt;快捷键&gt;设置自己的新建快捷键 2. 检索技巧 a. 布尔运算 和：AND 或者两者间加space 或：| 排除： 开头加!]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>技巧</tag>
+        <tag>经验</tag>
       </tags>
   </entry>
   <entry>
@@ -49,6 +37,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[word常用技巧]]></title>
+    <url>%2F2019%2F09%2F15%2Fword%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"><![CDATA[11 11 11 [TOC]]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>word</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[收藏资源]]></title>
     <url>%2F2019%2F09%2F15%2F%E3%80%90%E8%BD%AC%E3%80%91%E6%94%B6%E8%97%8F%E8%B5%84%E6%BA%90%2F</url>
     <content type="text"><![CDATA[APP在线制作工具 变色龙：https://www.appbsl.com/ 应用公园：http://www.apppark.cn/ 追信魔盒：http://app.zhui.cn/ 安米网：http://www.appbyme.com/ 爱传：http://www.iappk.com/ 叮当：http://www.dingdone.com/ 应用之星：http://www.appstar.com.cn/ 菜鸟应用：http://www.cainiaoapp.cn/ 在线APP制作平台：http://www.appwk.com/ APICloud：http://www.apicloud.com/ ECMobile：http://www.ecmobile.com.cn/ AppCan：http://www.appcan.cn/ PhoneGa： http://phonegap.com/ Verivo：http://www.verivo.com/ Yapp：https://www.yapp.us/ App Cooker：http://www.appcooker.com/ AppMakr：http://www.appmakr.com/ 1转自：https://www.quchao.net/AppStar.html 七个无版权音乐网站 https://www.pond5.com/ https://www.premiumbeat.com/ https://musicvine.com/ https://audiojungle.net/ https://artlist.io(https://artlist.io/) https://www.epidemicsound.com/ https://www.musicbed.com/ 电子书资源 一、综合类 亚马逊 Kindle 商店免费电子书 https://dwz.cn/XH3zS2Dj ePUBee电子书库 http://cn.epubee.com/ kindle伴侣 https://bookfere.com/ Kindleshare https://kindleshare.cn/ Kindle电子书分享网 https://kindle.51nazhun.pub/ 鸠摩 https://www.jiumodiary.com 我的小书屋(20190919不能访问) http://mebook.cc 苦瓜书盘 https://www.kgbook.com/ 书舟网 http://kindle.archiew.top/ 简阅 http://jianyue.pro/app/index 胖虎书屋 http://panghubook.cn/ 周读http://www.ireadweek.com/ azw3贴吧：https://dwz.cn/4rDxAfKR 好读：http://www.haodoo.net/ 分享：http://www.share2uu.com/ 脾气阅读：http://www.piqiyuedu.com/ 读读狗电子书：http://www.dududog.com/ 狗耳朵：https://www.dogear.cn/ 万读论坛：http://www.kindle10000.com/forum.php 读远：http://readcolor.com/ Readfree：http://readfree.me/ 百度搜索：输入书名+mobi Mlook看书：https://www.mlook.mobi/ 看Kindle：http://kankindle.com/ 掌上书苑：https://www.soepub.com/store 益书网：http://www.kindbook.cn/portal.php Kindle推：http://www.kindlepush.com/main Kindle读书人：http://www.dsread.com/forum.php 麦兜电子书论坛：http://bbs.mydoo.cn/ 书格数字图书馆：https://shuge.org/ 二、专科类 计算机中文类编程书籍[https://github.com/justjavac/free-programming-books-zh_CN] 编程随想收藏的一些书籍[https://github.com/programthink/books] 机器学习相关书籍[https://github.com/josephmisiti/awesome-machine-learning] 三、漫画类 vol.moe网址：https://vol.moe/ 四、英文类 Project Gutenberg（古登堡计划） Adelaide University（阿德莱德大学 Baen Free Library DigiLibraries epubBooks Girlebooks MobileRead SaltTiger Fox eBook AvaxHome Planetebook 五、杂志报刊资源 1、英文 Kindle 杂志推送服务 （ 少量付费 ） 经济学人、时代周刊、纽约客、大西洋月刊、哈佛评论、彭博商业周刊、读者文摘、麻省理工科技评论等英文原版 MOBI 格式电子杂志订阅服务，杂志更新后可自动推送到你设定的邮箱。 2、读者半月刊（2015全集） 《读者》為中国发行量最大的杂志之一，双月刊，由甘肃人民出版社出版发行。《读者》属于文摘类杂志，自身只发表少量原创内容，大多数文章通过摘取其他报刊杂志并支付稿酬来发表。 3、The Guardian（ 非官方版 ） 英国《卫报》是英国著名的综合性报刊，发表“世界领先的自由派声音”。近年来，《卫报》开始扩展其数字业务，《卫报》官方网站的新闻涵盖时政、体育、娱乐、财经、科技等方面。 4、新语丝 《新语丝》月刊是一份由方舟子等海外中国学人在 1994 年 2 月创办的一份电子文化性综合刊，名称源自中国新文化运动时期由鲁迅、周作人、钱玄同、林语堂等人在北京创办的同人刊物《语丝》。 六、精选 Kindle 订阅 RSS 地址资源 1、BBC中文网 RSS地址：[http://www.bbc.com/zhongwen/simp/index.xml] 2、纽约时报中文网 RSS地址：[http://cn.nytimes.com/rss.html] 3、Solidot RSS地址：[http://feeds.feedburner.com/solidot] 4、Engadget中国版 RSS地址：[http://cn.engadget.com/rss.xml] 5、科学松鼠会 RSS地址：[http://songshuhui.net/feed] 6、泛科学 RSS地址：[http://pansci.tw/feed] 7、读书马上 RSS地址：[http://www.dushumashang.com/feed] 1转自：https://zhuanlan.zhihu.com/p/81036992]]></content>
@@ -58,6 +57,17 @@
       <tags>
         <tag>资源</tag>
         <tag>网络资源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Excel技巧]]></title>
+    <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
+    <content type="text"><![CDATA[Excel技巧总结190915 多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
+      <categories>
+        <category>计算机</category>
+      </categories>
+      <tags>
+        <tag>Excel</tag>
       </tags>
   </entry>
   <entry>
@@ -94,28 +104,6 @@
       <tags>
         <tag>方法论</tag>
         <tag>心理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[word常用技巧]]></title>
-    <url>%2F2019%2F09%2F15%2Fword%E6%8A%80%E5%B7%A7%2F</url>
-    <content type="text"><![CDATA[11 11 11 [TOC]]]></content>
-      <categories>
-        <category>计算机</category>
-      </categories>
-      <tags>
-        <tag>word</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Excel技巧]]></title>
-    <url>%2F2019%2F09%2F15%2FExcel%E6%8A%80%E5%B7%A7%2F</url>
-    <content type="text"><![CDATA[Excel技巧总结190915 多条件判断IF =IF(B3&gt;28,“孕晚期”,IF(B3&gt;12,“孕中期”,“孕早期”)) [TOC]]]></content>
-      <categories>
-        <category>计算机</category>
-      </categories>
-      <tags>
-        <tag>Excel</tag>
       </tags>
   </entry>
   <entry>
