@@ -1950,7 +1950,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #bd08ff;
+  background: #617987;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2804,7 +2804,7 @@ embed {
 .btn {
   color: #8e8cd8;
   background: #fff;
-  border: 2px solid #8e8cd8;
+  border: 1px solid #8e8cd8;
 }
 .btn:hover {
   border-color: #8e8cd8;
