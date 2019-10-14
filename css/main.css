@@ -1665,12 +1665,12 @@ pre .javascript .function {
   color: #800080;
 }
 .page-post-detail .post-title {
-  font-size: 26px;
+  font-size: 20px;
   color: #fff;
   text-align: center;
   word-break: break-word;
-  font-weight: bold;
-  background-color: #8e8cd8;
+  font-weight: 500;
+  background-color: rgba(142,140,216,0.6);
   border-radius: 0em;
   line-height: 1em;
   padding-bottom: 10px;
@@ -1952,7 +1952,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a74f01;
+  background: #1f74ff;
 }
 .links-of-blogroll {
   font-size: 13px;
