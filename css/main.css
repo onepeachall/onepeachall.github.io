@@ -1295,6 +1295,8 @@ pre .javascript .function {
 .posts-expand .post-body h5,
 .posts-expand .post-body h6 {
   padding-top: 10px;
+  padding-left: 30px;
+  color: #8e8cd8;
 }
 .posts-expand .post-body h2 .header-anchor,
 .posts-expand .post-body h3 .header-anchor,
@@ -1952,7 +1954,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #1f74ff;
+  background: #1282ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2522,6 +2524,7 @@ img:hover {
 .category-all-page .category-list {
   margin: 0;
   padding: 0;
+  padding-left: 50px;
   list-style: none;
 }
 .category-all-page .category-list-item {
