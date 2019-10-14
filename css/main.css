@@ -458,6 +458,7 @@ body {
 .main-inner {
   margin: 0 auto;
   width: 700px;
+  background: rgba(142,140,216,0.1);
 }
 @media (min-width: 1600px) {
   .container .main-inner {
@@ -1090,6 +1091,7 @@ pre .javascript .function {
 }
 .header-inner {
   position: relative;
+  background: rgba(142,140,216,0.1);
 }
 .headband {
   height: 0px;
@@ -1606,7 +1608,7 @@ pre .javascript .function {
 .posts-expand .post-eof {
   display: block;
   margin: 50px auto 60px;
-  width: 100%;
+  width: 50%;
   height: 1px;
   background: #ccc;
   text-align: center;
@@ -1950,7 +1952,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #617987;
+  background: #a74f01;
 }
 .links-of-blogroll {
   font-size: 13px;
